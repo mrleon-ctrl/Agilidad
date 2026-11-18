@@ -38,7 +38,7 @@
 
 4. **Hay un cuello de botella estructural en las personas.** La operación depende de una sola reclutadora, con apoyo de una psicóloga interna [Hecho, TFM §6.1; TFM-A4 obs. 3], en un proceso que atraviesa 11 carriles de actores [Hecho, BPMN]. Por eso el piloto debe **liberar capacidad antes de exigirla** [coincide con TFM §2.4 "reto de capacidad"].
 
-5. **Nivel de partida: *Pre-agile*.** Según el *Agile Fluency Model* (S4), la organización todavía no trabaja con prácticas ágiles en este proceso. Un piloto de 8 a 12 semanas solo puede aspirar de forma realista a la primera zona: crear cultura de equipo y asegurar competencias. No debe aspirar a transformar la estructura organizativa [Propuesta].
+5. **Punto de partida: características de una etapa inicial de adopción ágil.** En este proceso todavía no se trabaja con prácticas ágiles (visualización del flujo, ciclos cortos de mejora, retrospectivas). Un piloto de 8 a 12 semanas permitirá desarrollar capacidades iniciales de foco, trabajo en equipo, visibilidad y aprendizaje. No debe aspirar a transformar la estructura organizativa [Propuesta]. El *Agile Fluency Model* (S4) se usa solo como referencia secundaria, sin clasificar formalmente el proceso en una de sus zonas.
 
 6. **Recomendación central [Propuesta].** Lanzar un *Recruitment Agility Pilot* acotado a una familia de cargos, con:
    - un equipo multidisciplinario con dueño de extremo a extremo;
@@ -176,7 +176,7 @@ En el curso, **"agilidad técnica" se refiere a los marcos y prácticas** (Kanba
 |---|---|---|---|---|
 | **Agilidad técnica** | Prácticas y marcos para gestionar el trabajo: Kanban, Scrum y Scrumban | No existe hoy en el proceso | Kanban del flujo de reclutamiento; Scrumban en ciclos de dos semanas para las mejoras; políticas explícitas; métricas de flujo | Presentar Scrum o Kanban como fin y no como mecanismo de aprendizaje |
 | **Agilidad de equipo** | Cómo colabora un equipo: roles, autoorganización, seguridad psicológica, *feedback* y complementariedad | El trabajo se hace en solitario (una reclutadora) y por traspasos | Equipo multidisciplinario con PO y facilitador; acuerdos de equipo; retrospectivas; equilibrio de roles (ETBO) | Creer que juntar personas en reuniones ya es un equipo |
-| **Agilidad organizativa** | Cómo se alinean estrategia, estructura, personas, procesos y tecnología para responder con rapidez y aportar valor | Matriz local, regional y casa matriz; decisiones implícitas; liderazgo de control | Derechos de decisión explícitos; acuerdo de servicio líder–RR. HH.; liderazgo de servicio; escalamiento basado en evidencia | Querer reorganizar la empresa (tribus, SAFe o Nexus) en lugar de experimentar en un ámbito acotado |
+| **Agilidad organizativa** | Cómo se alinean estrategia, estructura, personas, procesos y tecnología para responder con rapidez y aportar valor | Matriz local, regional y casa matriz; decisiones implícitas y limitada delegación documentada | Derechos de decisión explícitos; acuerdo de servicio líder–RR. HH.; liderazgo de servicio; escalamiento basado en evidencia | Querer reorganizar la empresa (tribus, SAFe o Nexus) en lugar de experimentar en un ámbito acotado |
 | **Gestión del cambio** | Cómo pasan las personas del estado actual al deseado y reducen su resistencia | Capacitación hecha, adopción no lograda | ADKAR por perfil; elementos de Kotter; Rogers para elegir participantes; PDCA; comunicación de *quick wins* | Reducir el cambio a "capacitar y comunicar" |
 
 Las cuatro capas se necesitan entre sí:
@@ -344,3 +344,21 @@ No se agregan metas numéricas que no estén documentadas.
 ## 8. Próximo paso propuesto
 
 Tras la revisión del equipo, el siguiente paso según `CLAUDE.md` §11 es **proponer el storyboard de la presentación** (máximo nueve diapositivas). Antes conviene cerrar al menos los puntos 1, 2 y 5 de la sección 6, porque determinan el alcance y el equipo del piloto.
+
+---
+
+## 9. Estado y ajustes acordados en la revisión
+
+El diagnóstico queda **aprobado como documento de soporte**, con estos ajustes:
+
+1. El proceso no se clasifica formalmente como *Pre-agile*: presenta características de una etapa inicial de adopción ágil.
+2. No se afirma que el piloto alcance una zona del *Agile Fluency Model*. Solo se dice que desarrollará capacidades iniciales de foco, trabajo en equipo, visibilidad y aprendizaje.
+3. "Liderazgo de control" se sustituye por "decisiones implícitas y limitada delegación documentada".
+4. **Para la presentación:**
+   - Marcos principales: Kanban, Scrumban, ADKAR, Rogers, seguridad psicológica, y sponsor, coalición y *quick wins* de Kotter.
+   - Sustento secundario en notas: Repenning, PDCA, ETBO, *Moving Motivators*, Su-Ha-Ri y *Agile Fluency*.
+   - La IA solo aparece como experimento posterior de bajo riesgo y condicionado.
+   - Solo cinco métricas visibles.
+   - Narrativa: problema → hipótesis → experimento → evidencia → decisión.
+
+Las acciones y métricas adicionales de este documento (por ejemplo, el caso de IA de la §3.5) se mantienen como sustento, no como contenido de las diapositivas.
