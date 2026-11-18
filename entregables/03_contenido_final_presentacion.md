@@ -103,7 +103,7 @@
 - Naviera global · sede regional LATAM
 - Recurrente: 615 procesos/año
 - Mayoritariamente interna: 90 %
-- Parcialmente digitalizada: 70–80 % externos en MyPort
+- Registro en MyPort: 100 % internos · 70–80 % externos
 - 38 días de cobertura → meta 28
 - Tecnología disponible; el reto es cómo se trabaja y decide
 <!-- visible:end -->
@@ -114,7 +114,7 @@
 - Cuatro tarjetas iguales en fila (fondo #F3F4F6), cada una con la cifra grande en azul marino y la etiqueta encima en 14 pt:
   1. "Recurrente" — **615** procesos/año
   2. "Mayoritariamente interna" — **90 %**
-  3. "Parcialmente digitalizada" — **70–80 %** externos en MyPort
+  3. "Registro en MyPort" — **100 %** internos · **70–80 %** externos (dos cifras apiladas a 36 pt)
   4. **38 días** → meta 28. La cifra 38 va en naranja: es la tensión.
 - Abajo, a lo ancho, la frase "Tecnología disponible; el reto es cómo se trabaja y decide" a 24 pt, con una barra vertical naranja a la izquierda.
 
@@ -142,7 +142,7 @@
 <!-- visible:start -->
 - Demora: decisión del líder
 - RR. HH. asume tareas del líder
-- No existe visibilidad consolidada de dónde se detiene el proceso.
+- Sin visibilidad consolidada de las esperas
 - Estrategia · Estructura · Personas · Procesos · Tecnología
 - Valoración cualitativa del equipo basada en el diagnóstico del caso.
 <!-- visible:end -->
@@ -245,7 +245,7 @@
 - **Prohibido:** nombres de personas en el gráfico del equipo.
 
 **Guion oral**
-> "El piloto se limita a una familia de cargos, que se definirá con Recursos Humanos según su volumen. Empezamos por la movilidad interna, que concentra cerca del 90 % de los procesos, y, cuando corresponda, incluimos el proceso encadenado que genere: si alguien es promovido, su puesto queda vacante y se abre otra búsqueda. Así recorremos el proceso completo sin entrar en los perfiles más difíciles de cubrir. Proponemos entre ocho y doce semanas, sujeto a validación. El equipo tiene dos niveles. Un núcleo estable: sponsor, Product Owner, facilitador, reclutamiento y líderes piloto. Y especialistas bajo demanda: psicología, IT, Data, Legal y Compensaciones. El facilitador no debería ser la reclutadora, porque hoy el proceso depende de ella. La pieza central son las decisiones acordadas: quién decide qué y en qué plazo."
+> "El piloto se limita a una familia de cargos, que se definirá con Recursos Humanos según su volumen. Empezamos por la movilidad interna, que concentra cerca del 90 % de los procesos, y, cuando corresponda, incluimos el proceso encadenado que genere: si alguien es promovido, su puesto queda vacante y se abre otra búsqueda. Así recorremos el proceso completo sin entrar en los perfiles más difíciles de cubrir. Proponemos entre ocho y doce semanas, sujeto a validación. El equipo tiene dos niveles. Un núcleo estable: sponsor, Product Owner, facilitador, reclutamiento y líderes piloto. Y especialistas bajo demanda: psicología, IT, Data, Legal y Compensaciones. El facilitador no debería ser la reclutadora, porque concentrar ambos roles aumentaría la carga operativa y limitaría la capacidad de facilitación. La pieza central son las decisiones acordadas: quién decide qué y en qué plazo."
 
 **Transición (Patricia → Manuel):** "Con el piloto definido, Manuel explica cómo trabajará el equipo."
 
@@ -271,7 +271,7 @@
 
 **Texto visible definitivo**
 <!-- visible:start -->
-- Requisición · Candidatos · Entrevistas · Decisión · Oferta
+- Requisición · Preselección · Entrevistas · Decisión · Oferta
 - Bloqueado
 - Cada vacante visible por etapa; bloqueos y esperas a la vista
 - Backlog de experimentos · ciclos de 2 semanas
@@ -281,13 +281,13 @@
 **Diseño visual**
 
 - **Mitad izquierda (60 %):** tablero Kanban simplificado.
-  - Cinco columnas con encabezado a 16 pt (Requisición, Candidatos, Entrevistas, Decisión, Oferta).
+  - Cinco columnas con encabezado a 16 pt (Requisición, Preselección, Entrevistas, Decisión, Oferta).
   - Cuatro o cinco tarjetas en blanco con borde azul marino, sin texto.
   - Una tarjeta en la columna "Decisión" con el borde y la etiqueta "Bloqueado" en rojo.
   - Bajo el tablero: "Cada vacante visible por etapa; bloqueos y esperas a la vista" a 18 pt.
 - **Mitad derecha (40 %):** un ciclo circular con cuatro flechas sin rótulos y, en el centro, "Backlog de experimentos · ciclos de 2 semanas".
 - **Franja inferior a lo ancho:** "Flujo 2–3/semana · revisión quincenal · decisión mensual", con tres iconos pequeños de calendario.
-- **Nota para el diseño:** las columnas son ilustrativas; las etapas reales se definen con RR. HH.
+- **Advertencia que se mantiene:** las columnas son etapas ilustrativas, sujetas a validación con Recursos Humanos. Se dice en el guion ("Las etapas exactas del tablero las definiremos con Recursos Humanos") y figura en las notas.
 
 **Guion oral**
 > "Gracias, Patricia. Trabajamos en dos niveles. Para el flujo diario usamos Kanban: cada vacante es una tarjeta que avanza de la requisición a la oferta, con reglas explícitas por etapa; por ejemplo, qué debe tener una requisición para estar lista. Si una tarjeta supera el plazo acordado, se marca como bloqueada y se revisa en una reunión de flujo de quince minutos, dos o tres veces por semana. Así se ve, por primera vez, dónde se espera. Las etapas exactas del tablero las definiremos con Recursos Humanos. Para mejorar el proceso usamos ciclos de dos semanas con un backlog de experimentos. Los primeros son simples: que el líder revise currículums en MyPort y no por correo, que reserve un bloque fijo semanal para entrevistas y que el candidato descartado sea avisado al decidir. Cada experimento tiene hipótesis, indicador y criterio para continuar, ajustar o detener. El método no es el objetivo: es la forma de aprender rápido."
@@ -322,23 +322,24 @@
 
 **Texto visible definitivo**
 <!-- visible:start -->
-- ADKAR: acompañamiento 1:1 al líder
+- Acompañamiento 1:1 al líder
 - Rogers: empezar con early adopters
 - Seguridad psicológica: un bloqueo es información, no culpa
 - Quick wins: CV por MyPort, agenda fija, aviso a descartados
 <!-- visible:end -->
 
-*Elemento gráfico adicional:* las cinco letras A · D · K · A · R dentro de la barra de ADKAR. Son glifos del gráfico, no texto corrido. Aun contándolas como palabras, la diapositiva queda en 32.
+*Elemento gráfico adicional:* barra ADKAR con las cinco letras (A · D · K · A · R) y tres rótulos de estado: "Alcanzado", "Foco" y "Siguiente". El cuerpo suma 30 palabras; contando también las cinco letras, 35.
 
 **Diseño visual**
 
 Cuadrícula de 2 × 2 con tarjetas de igual tamaño (fondo #F3F4F6). Cada tarjeta lleva un icono arriba a la izquierda y el texto a 20 pt.
 
-1. **ADKAR** (arriba a la izquierda): barra horizontal de cinco segmentos con las letras A, D, K, A, R.
-   - La K va rellena en azul marino (conocimiento logrado).
-   - La segunda A (*Ability*) va con contorno naranja grueso (brecha).
-   - Las otras letras van en gris claro.
-   - Debajo: "ADKAR: acompañamiento 1:1 al líder".
+1. **ADKAR** (arriba a la izquierda): barra horizontal de cinco segmentos con las letras A, D, K, A, R. La barra hace de encabezado de la tarjeta.
+   - **K (Knowledge):** relleno azul marino con letra blanca y rótulo "Alcanzado" debajo.
+   - **Segunda A (Ability):** contorno naranja grueso y rótulo "Foco" debajo (foco inmediato).
+   - **R (Reinforcement):** contorno naranja discontinuo y rótulo "Siguiente" debajo (siguiente necesidad).
+   - **A y D iniciales:** en gris claro y sin rótulo.
+   - Debajo de la barra: "Acompañamiento 1:1 al líder".
 2. **Rogers** (arriba a la derecha): mini curva de adopción, con los tramos *innovators* y *early adopters* rellenos en naranja y el resto en gris. Sin rótulos en la curva.
 3. **Seguridad psicológica** (abajo a la izquierda): icono de escudo o de mano abierta.
 4. **Quick wins** (abajo a la derecha): tres marcas de verificación pequeñas junto al texto.
@@ -375,21 +376,25 @@ Cuadrícula de 2 × 2 con tarjetas de igual tamaño (fondo #F3F4F6). Cada tarjet
 
 **Texto visible definitivo**
 <!-- visible:start -->
-- Tiempo de cobertura — Dirección del outcome: 38 → 28 días
-- Tiempo de decisión del líder
-- Tiempo bloqueado
-- % procesos registrados extremo a extremo
-- Uso efectivo de MyPort por líderes
+- Resultado: tiempo de cobertura
+- Dirección del outcome: 38 → 28 días
+- Decisión: tiempo del líder
+- Flujo: tiempo bloqueado
+- Trazabilidad: procesos registrados
+- Adopción: uso efectivo de MyPort
 - Línea base por medir
 - Mensual: escalar · ajustar · detener
 <!-- visible:end -->
 
 **Diseño visual**
 
-- **Mitad izquierda (65 %):** cinco tarjetas de métrica en columna, todas del mismo tamaño.
-  - **Primera tarjeta**, más ancha y destacada: "Tiempo de cobertura" con la línea "Dirección del outcome: 38 → 28 días" y la flecha en naranja. Sin barra de progreso ni valor objetivo para el periodo del piloto.
-  - **"% procesos registrados extremo a extremo":** sin cifras en la tarjeta. La situación actual (100 % de internos y 70–80 % de externos) ya se mostró en D2 y queda en las notas.
-  - **Las otras tres tarjetas** (tiempo de decisión del líder, tiempo bloqueado y uso efectivo de MyPort por líderes) llevan el sello gris "Línea base por medir".
+- **Mitad izquierda (65 %):** cinco tarjetas de métrica en columna, organizadas por dimensión. La dimensión va en versalitas naranja a 13 pt y la métrica a 20 pt.
+  1. **Resultado:** tiempo de cobertura. Tarjeta más alta y destacada, con la línea "Dirección del outcome: 38 → 28 días" y la flecha en naranja. Sin barra de progreso ni valor objetivo para el periodo del piloto.
+  2. **Decisión:** tiempo del líder.
+  3. **Flujo:** tiempo bloqueado.
+  4. **Trazabilidad:** procesos registrados. Sin cifras en la tarjeta; la situación actual (100 % de internos y 70–80 % de externos) se mostró en D2 y queda en las notas.
+  5. **Adopción:** uso efectivo de MyPort.
+- **Leyenda única "Línea base por medir":** un icono de reloj de arena gris marca las tarjetas 2, 3 y 5, y la leyenda aparece **una sola vez** bajo la columna, junto al mismo icono. No se repite el sello en cada tarjeta.
 - **Mitad derecha (35 %):** semáforo vertical con tres círculos rotulados: verde "escalar", ámbar "ajustar" y rojo "detener". Encima, "Mensual:".
 - **Prohibido:** cualquier icono o mención de IA.
 
@@ -488,30 +493,35 @@ Cuadrícula de 2 × 2 con tarjetas de igual tamaño (fondo #F3F4F6). Cada tarjet
 
 ## 5. Control de calidad
 
+> ⚠️ **Nombres pendientes de confirmación.** El repositorio escribe dos de los nombres de forma distinta: en la portada del TFM, "Vizcarra, Maria Patricia" y "Cayon Moreno, Nataly de Jesus"; en la presentación del equipo, "Vizcarra Ponce, Patricia" y "Cayón Moreno, Nataly". Se conservan los nombres actuales, tomados de la portada del TFM, sin corregir tildes ni apellidos. **Hay que validarlos con cada integrante antes de exportar el PDF final.**
+
 | Diapositiva | Palabras visibles (sin título; en D1, todo) | Palabras del guion (con transición) | Tiempo asignado | Ritmo equivalente |
 |---|---|---|---|---|
 | D1 | 35 | 33 | 0:20 | 99 ppm |
-| D2 | 33 | 134 | 1:10 | 115 ppm |
-| D3 | 35 | 126 | 1:20 | 94 ppm |
+| D2 | 34 | 134 | 1:10 | 115 ppm |
+| D3 | 31 | 126 | 1:20 | 94 ppm |
 | D4 | 35 | 112 | 1:00 | 112 ppm |
-| D5 | 35 | 141 | 1:20 | 106 ppm |
+| D5 | 35 | 148 | 1:20 | 111 ppm |
 | D6 | 30 | 157 | 1:30 | 105 ppm |
-| D7 | 28 (32 contando las letras ADKAR) | 153 | 1:30 | 102 ppm |
-| D8 | 35 | 127 | 1:10 | 109 ppm |
+| D7 | 30 (35 contando las letras ADKAR) | 153 | 1:30 | 102 ppm |
+| D8 | 33 | 127 | 1:10 | 109 ppm |
 | D9 | 24 | 79 | 0:40 | 118 ppm |
-| **Total** | — | **1.062** | **10:00** | **≈ 106 ppm** |
+| **Total** | — | **1.069** | **10:00** | **≈ 107 ppm** |
 
-*Nota:* recuento automático sobre esta versión. Cualquier cambio en el texto requiere repetirlo. Un ritmo equivalente de unas 106 palabras por minuto, por debajo del habitual de 125–130, es el margen para pausas, cambios de expositor y para señalar las diapositivas.
+*Nota:* recuento automático sobre esta versión. En D7 se suman los rótulos de estado "Alcanzado", "Foco" y "Siguiente" a las 27 palabras del texto. Un ritmo equivalente de unas 107 palabras por minuto, por debajo del habitual de 125–130, deja margen para pausas y cambios de expositor.
 
-**Verificación de cifras:** todas las cifras visibles (615, 90 %, 70–80 %, 100 %, 38 y 28 días) proceden de `CLAUDE.md` §3 y del TFM. No se muestra ninguna meta numérica adicional; las métricas sin línea base figuran como "Línea base por medir".
+**Verificación de cifras:** todas las cifras visibles (615, 90 %, 100 %, 70–80 %, 38 y 28 días) proceden de `CLAUDE.md` §3 y del TFM. No se muestra ninguna meta numérica adicional; las métricas sin línea base figuran como "Línea base por medir".
+
+**Verificación de fuentes:** ETBO existe en el repositorio (`86403.pdf`, *Nota técnica: Metodología ETBO®*) y se mantiene en las notas y en las referencias.
 
 **Ajustes de la última revisión, verificados:**
 
-- **D2:** se describe como una operación "recurrente, mayoritariamente interna y parcialmente digitalizada", sin "alto volumen".
-- **D3:** frase de visibilidad sustituida y leyenda junto al semáforo.
-- **D4:** el 100 % aparece como meta.
-- **D5:** alcance con proceso encadenado y equipo en dos niveles.
-- **D6:** título visible acordado y Scrumban explicado en las notas.
-- **D8:** "Dirección del outcome: 38 → 28 días", sin sugerir que se alcanzará durante el piloto.
-- **IA:** solo mencionada de forma oral en D8.
-- Se mantienen las nueve diapositivas y el arco narrativo.
+- **D2:** "Registro en MyPort: 100 % internos · 70–80 % externos".
+- **D3:** texto visible "Sin visibilidad consolidada de las esperas"; el guion conserva la explicación completa.
+- **D5:** nueva justificación sobre el facilitador en el guion.
+- **D6:** columnas Requisición · Preselección · Entrevistas · Decisión · Oferta, con la advertencia de que son etapas ilustrativas.
+- **D7:** en ADKAR, Knowledge aparece como alcanzado, Ability como foco y Reinforcement como siguiente necesidad.
+- **D8:** las cinco métricas organizadas por dimensión (Resultado, Decisión, Flujo, Trazabilidad y Adopción).
+- Sin nuevas diapositivas, marcos, cifras, herramientas ni casos de uso.
+
+El control de calidad del PowerPoint y del PDF está en `04_control_calidad_presentacion.md`.
