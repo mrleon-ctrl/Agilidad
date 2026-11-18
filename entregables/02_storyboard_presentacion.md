@@ -34,7 +34,7 @@
 | 8 | Métricas y criterio para escalar | Evidencia → Decisión | 1:10 | 9:20 |
 | 9 | Cierre | Decisión y reflexión | 0:40 | **10:00** |
 
-*Los guiones suman unas 1.150 palabras: entre 115 y 135 por minuto según la diapositiva, un ritmo pausado para exponer en 10 minutos. Si la exposición puede llegar a 12 minutos, conviene repartir el tiempo extra entre las diapositivas 6 y 7.*
+*Los guiones suman unas 1.150 palabras: entre 115 y 135 por minuto según la diapositiva, un ritmo pausado para exponer en los 10 minutos confirmados. Cada cambio de expositor añade unos segundos, por lo que conviene ensayar con cronómetro.*
 
 ---
 
@@ -52,10 +52,10 @@
 <!-- visible:start -->
 - Transformación ágil del reclutamiento de Hapag-Lloyd Chile
 - De un proceso fragmentado a un servicio integrado, medible y orientado al valor
-- Recruitment Agility Pilot · [Integrantes del equipo]
+- Javiera Molina Alvial · Maria Patricia Vizcarra · Nataly de Jesus Cayon Moreno · Manuel Ricardo León Castillo
 <!-- visible:end -->
 
-**Visual recomendado:** fondo limpio con una línea gráfica que pasa de segmentos sueltos a una línea continua, como metáfora de "fragmentado → integrado". Se puede usar una imagen neutra de contenedores. El logotipo corporativo solo debería usarse si el equipo confirma que puede hacerlo.
+**Visual recomendado:** logotipo de Hapag-Lloyd (uso confirmado por el equipo) en la esquina superior y fondo limpio con una línea gráfica que pasa de segmentos sueltos a una línea continua ("fragmentado → integrado"). Los nombres van en una línea inferior en tipografía pequeña. El nombre *Recruitment Agility Pilot* se reserva para el título de la diapositiva 5, para no superar las 35 palabras.
 
 **Guion oral**
 > "Buenos días. Hoy actuamos como consultores y *agile coaches* para Hapag-Lloyd Chile. Nuestra propuesta no es implantar Agile en toda la compañía, sino algo más acotado y verificable: un piloto para experimentar una nueva forma de gestionar el reclutamiento."
@@ -311,9 +311,28 @@
 | *Agile Fluency Model* | "¿Qué nivel de agilidad esperan?": capacidades iniciales, sin clasificar formalmente el proceso |
 | Cinco dimensiones (diagnóstico completo) | Remitir a `01_diagnostico_agilidad_organizativa.md` |
 
-## Puntos abiertos antes de producir las diapositivas
+## Reparto entre expositores [Propuesta]
 
-1. Número de expositores, para repartir el guion.
-2. Nombres de los integrantes del equipo para la portada.
-3. Si se puede usar el logotipo de Hapag-Lloyd.
-4. Confirmar si la exposición será de 10 minutos exactos o hasta 15 (afecta a la profundidad de las diapositivas 6 y 7).
+El tiempo de exposición confirmado es de 10 minutos. Son cuatro expositores. El reparto sigue los tramos de la narrativa y el perfil de cada integrante descrito en el TFM (presentación del equipo):
+
+| Expositor | Diapositivas | Tramo narrativo | Tiempo | Por qué |
+|---|---|---|---|---|
+| Javiera Molina Alvial | 1–3 | Problema | 2:50 | Trabaja en RR. HH. de la oficina regional y conoce Oracle: es la voz con más credibilidad para explicar el contexto y por qué el problema es organizativo |
+| Maria Patricia Vizcarra | 4–5 | Hipótesis y diseño del piloto | 2:20 | Experiencia en optimización de procesos, control y transformación organizacional |
+| Manuel Ricardo León Castillo | 6–7 | Experimento: forma de trabajo y adopción | 3:00 | Experiencia en metodologías ágiles y gestión del cambio |
+| Nataly de Jesus Cayon Moreno | 8–9 | Evidencia, decisión y cierre | 1:50 | Experiencia en seguimiento de indicadores de desempeño. Como tiene el bloque más corto, puede coordinar la ronda de preguntas |
+
+**Transiciones sugeridas** (una frase al pasar el turno):
+
+- **D3 → D4 (Javiera a Patricia):** "Si el problema es organizativo, ¿qué queremos probar? Patricia."
+- **D5 → D6 (Patricia a Manuel):** "Con el piloto definido, Manuel explica cómo trabajará el equipo."
+- **D7 → D8 (Manuel a Nataly):** "¿Y cómo sabremos si funciona? Nataly."
+
+*Nota sobre los nombres:* el TFM los escribe de dos formas (portada: "Vizcarra, Maria Patricia" y "Cayon Moreno, Nataly de Jesus"; presentación del equipo: "Vizcarra Ponce, Patricia" y "Cayón Moreno, Nataly"). Aquí se usa la versión de la portada. Conviene confirmar las tildes y los apellidos que prefiere cada persona.
+
+## Decisiones confirmadas
+
+- Cuatro expositores.
+- Nombres tomados del TFM.
+- Uso del logotipo de Hapag-Lloyd autorizado.
+- Exposición de 10 minutos.
